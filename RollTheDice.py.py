@@ -36,5 +36,7 @@ while game_still_on:
         
 if value == True:
     print("player1 won")  
+	print("congrates")
 elif value1 == True:
     print("player2 won")
+	print("congrats")
